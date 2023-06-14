@@ -76,6 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
   
 ## Project Images
 ![image](https://github.com/GeegPrerit/Angular-Demo-Project/assets/127297823/e23cc0a4-3c05-46cd-b5f9-bfb4ca1a1cea)
+![image](https://github.com/GeegPrerit/Angular-Demo-Project/assets/127297823/7fe713a6-88e8-4cb4-89eb-7d8a2106517f)
 ![Screenshot 2023-06-14 102158](https://github.com/GeegPrerit/Angular-Demo-Project/assets/127297823/98eb3c5e-6112-4bfd-ba71-d2f954b0ae0f)
 
 
