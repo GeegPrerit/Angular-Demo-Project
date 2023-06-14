@@ -1,0 +1,17 @@
+<h2>Resume Builder</h2>
+<div class="form-style-5">
+  <form [formGroup]="resumeForm" (ngSubmit)="onSubmit()">
+  <fieldset>
+  <legend><span class="number">1</span> Basic Info</legend>
+  <input type="text" name="field1" placeholder="Your Name *" formControlName="name">
+  <input type="email" name="field2" placeholder="Your Email *" formControlName="email">
+  <input type="number" name="field2" placeholder="Your Mobile Number *" formControlName="phone">
+  <textarea name="field3" placeholder="Education:" formControlName="education"></textarea>      
+  </fieldset>
+  <fieldset>
+  <legend><span class="number">2</span> Experience :</legend>
+  <textarea name="field3" placeholder="Experience" formControlName="experience"></textarea>
+  </fieldset>
+  <button type="submit" [disabled]="resumeForm.invalid">Generate Resume(pdf)</button>
+  </form>
+  </div>
